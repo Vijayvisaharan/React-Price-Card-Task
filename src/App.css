@@ -1,0 +1,47 @@
+.app{
+ display: flex;
+ margin: 196px;
+ margin-top: 100px;
+ margin-left: 200px;
+ gap: 30PX;
+ padding: 30px;
+background-color: rgb(38, 96, 221);
+
+
+}
+.heading{
+  text-align: center;
+}
+.card{
+  height: 600px;
+  width: 350px;
+  background-color: aliceblue;
+  display: grid;
+ border-radius: 3%;
+ 
+}
+.card-head{
+  color: black;
+  text-align: center;
+  
+}
+.cardTop{
+  color: lightslategray;
+}
+.outline{
+  color: lightslategray;
+  
+}
+
+.card-body{
+margin-left: 30px;
+margin-bottom: 100px;
+}
+.dim{
+  color: lightslategray;
+}
+.btn{
+  color: aliceblue;
+   width: 300px;
+  background-color: rgb(30, 114, 209);
+}
